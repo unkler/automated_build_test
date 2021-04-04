@@ -1,2 +1,1 @@
-FROM dockersamples/static-site
-ENV AUTHOR="unklertest"
+FROM docker/whalesay:latest
